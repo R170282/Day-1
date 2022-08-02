@@ -1,0 +1,18 @@
+Given a single integer N, your task is to find the sum of the square of first N odd natural Numbers.
+ 
+test case:
+
+Example 1:
+
+ Input: 2
+ Output: 10
+ Explanation: 12 + 32 = 10
+
+Example 2: 
+
+ Input: 3
+ Outptut: 35
+ Explanation: 12 + 32 + 52 = 35
+your task:
+Your task is to complete the function sum_of_square_oddNumbers() wgich takes N as input parameter and returns the sum of first N odd natural numbers.
+
